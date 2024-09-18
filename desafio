@@ -1,0 +1,3 @@
+printe = input('digite seu nome?')
+print ("ola")
+print ( nome ) 
